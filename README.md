@@ -4,10 +4,10 @@ basic UI for practice
 # screenshots
 
 ![sample shot](/screenshots/accordion.png?raw=true)
-**Accordion**
+**Accordion**  <https://suhas023.github.io/modal-navbar-accordion/accordion/>
 
 ![sample shot](/screenshots/modal.png?raw=true)
-**modal**
+**modal**     <https://suhas023.github.io/modal-navbar-accordion/modal/>
 
 ![sample shot](/screenshots/navbar.png?raw=true)
-**navbar**
+**navbar**    <https://suhas023.github.io/modal-navbar-accordion/navbar/>
